@@ -1,0 +1,32 @@
+[33mcommit 9a8ad0b1c741a23ef0b85213cbe1fdbc4d1b6874[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1b85668 33dff51
+Author: 24334020-Ahhaana <24334020@sau.edu.in>
+Date:   Thu Sep 24 16:26:43 2026 +0530
+
+    Merge pull request #1 from 24334020-Ahhaana/rushikesh
+    
+    Update heading
+
+[33mcommit 33dff5117520c240d62d2399bb5dcef7a57b0f0b[m[33m ([m[1;31morigin/rushikesh[m[33m)[m
+Author: Rushikesh Shirurkar <24334001@sau.edu.in>
+Date:   Thu Sep 24 16:20:28 2026 +0530
+
+    Update heading
+
+[33mcommit 1b85668572c95854a9c7a3d9223ea53a6fa1e440[m[33m ([m[1;31morigin/Jerusha[m[33m, [m[1;31morigin/Anshu[m[33m)[m
+Author: 24334020-Ahhaana <24334020@sau.edu.in>
+Date:   Thu Sep 24 15:49:41 2026 +0530
+
+    Improve colorful interactive UI
+
+[33mcommit 2e44fd1804f0401d71010937e3cb50dcbb500717[m
+Author: 24334020-Ahhaana <24334020@sau.edu.in>
+Date:   Thu Sep 24 15:36:25 2026 +0530
+
+    Initial interactive React project
+
+[33mcommit 6651f071258dd0062c5f3d530476ce810fe2bfa8[m
+Author: 24334020-Ahhaana <24334020@sau.edu.in>
+Date:   Thu Sep 24 15:30:17 2026 +0530
+
+    Initialize project using Create React App
