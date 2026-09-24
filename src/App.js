@@ -84,6 +84,7 @@ function App() {
 
           <h1>
             Build Together.
+Ship Together — Rushikesh 🚀
             <br />
             <span>Ship Together.</span>
           </h1>
